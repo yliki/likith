@@ -1,5 +1,8 @@
-fetch change
-first commit
-sec change commit
+whoami ;
+pwd ;
+echo "hello-world" 
 
-brance commit
+echo "complete-ok" 
+
+
+echo "all OK " 
